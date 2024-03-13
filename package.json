@@ -1,0 +1,30 @@
+{
+  "name": "ds-rose",
+  "displayName": "DS Rose",
+  "description": "A Retro rose colored minimalistic theme",
+  "publisher": "MKDev",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "rose",
+    "simple",
+    "minimalistic",
+    "retro"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DS Rose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DS-Rose-color-theme.json"
+      }
+    ]
+  }
+}
