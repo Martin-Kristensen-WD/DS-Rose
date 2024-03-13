@@ -18,6 +18,10 @@
     "minimalistic",
     "retro"
   ],
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/Martin-Kristensen-WD/DS-Rose"
+  },
   "contributes": {
     "themes": [
       {
