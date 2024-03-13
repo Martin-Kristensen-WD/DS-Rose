@@ -3,7 +3,7 @@
   "displayName": "DS Rose",
   "description": "A Retro rose colored minimalistic theme",
   "publisher": "MKDev",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.87.0"
   },
