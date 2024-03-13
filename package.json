@@ -18,9 +18,15 @@
     "minimalistic",
     "retro"
   ],
+  "icon": "images/dsrose-icon.png",
+  "galleryBanner": {
+    "color": "#cf7b96",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN license.txt",
   "repository": {
     "type": "git",
-    "url":"https://github.com/Martin-Kristensen-WD/DS-Rose"
+    "url": "https://github.com/Martin-Kristensen-WD/DS-Rose"
   },
   "contributes": {
     "themes": [
